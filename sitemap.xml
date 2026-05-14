@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- トップページ -->
+  <url>
+    <loc>https://schooltrip.site/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- プライバシーポリシー -->
+  <url>
+    <loc>https://schooltrip.site/privacy-policy.html</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- 免責事項 -->
+  <url>
+    <loc>https://schooltrip.site/disclaimer.html</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
