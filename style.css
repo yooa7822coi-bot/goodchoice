@@ -1257,10 +1257,17 @@ img { max-width: 100%; display: block; }
   margin-bottom: 36px;
 }
 
+/* スクロールラッパー内では内側の overflow: hidden を解除し、
+   外側コンテナのスクロールが機能するようにする */
 .table-scroll-wrap .summary-table-wrap {
   margin-bottom: 0;
   box-shadow: none;
   border-radius: 0;
+  overflow: visible;
+}
+
+.table-scroll-wrap .packing-table-wrap {
+  overflow: visible;
 }
 
 /* ===== Responsive ===== */
